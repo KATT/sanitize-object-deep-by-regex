@@ -50,7 +50,7 @@
     "benchmark": "2.1.4",
     "husky": "8.0.3",
     "jest": "27.5.1",
-    "lint-staged": "13.2.1",
+    "lint-staged": "13.2.2",
     "nodemon": "2.0.22",
     "prettier": "2.8.8",
     "rimraf": "5.0.0",
