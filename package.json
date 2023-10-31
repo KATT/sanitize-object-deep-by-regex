@@ -46,7 +46,7 @@
   "devDependencies": {
     "@types/benchmark": "2.1.4",
     "@types/jest": "29.5.7",
-    "@types/node": "20.8.9",
+    "@types/node": "20.8.10",
     "benchmark": "2.1.4",
     "husky": "8.0.3",
     "jest": "27.5.1",
