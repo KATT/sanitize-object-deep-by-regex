@@ -44,7 +44,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/benchmark": "2.1.4",
+    "@types/benchmark": "2.1.5",
     "@types/jest": "29.5.7",
     "@types/node": "20.8.10",
     "benchmark": "2.1.4",
