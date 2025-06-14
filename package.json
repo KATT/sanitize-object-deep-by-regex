@@ -49,7 +49,7 @@
     "@types/node": "22.15.31",
     "benchmark": "2.1.4",
     "husky": "9.1.7",
-    "jest": "27.5.1",
+    "jest": "30.0.0",
     "lint-staged": "16.1.1",
     "nodemon": "3.1.10",
     "prettier": "3.5.3",
